@@ -1,0 +1,13 @@
+dev_msl/
+
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/*/__pycache__
+
