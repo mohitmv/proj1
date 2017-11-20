@@ -4,4 +4,5 @@ proj1/__init__.py
 proj1.egg-info/PKG-INFO
 proj1.egg-info/SOURCES.txt
 proj1.egg-info/dependency_links.txt
+proj1.egg-info/requires.txt
 proj1.egg-info/top_level.txt
